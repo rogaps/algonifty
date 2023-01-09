@@ -1,8 +1,8 @@
 {
-  "name": "mathfun",
+  "name": "algonifty",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/rogaps/mathfun.git",
+  "repository": "https://github.com/rogaps/algonifty.git",
   "author": "Roga Pria Sembada <rogaps@gmail.com>",
   "license": "MIT",
   "devDependencies": {
